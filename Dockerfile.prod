@@ -1,0 +1,28 @@
+# Use a minimal Python 3.12 base image
+FROM python:3.12-slim
+
+# Ensures that Python outputs are logged immediately (without buffering)
+ENV PYTHONUNBUFFERED True
+
+# Set the working directory inside the container
+WORKDIR /usr/src/app
+
+# Copy and install Python dependencies
+COPY ./requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Set PYTHONPATH to ensure internal modules are accessible
+ENV PYTHONPATH=/usr/src/app/src
+
+# Copy application source code into the container
+COPY ./src ./src
+
+# Expose the port your app will run on (Streamlit default will be overridden to 4000)
+EXPOSE 4000
+
+# -------- OPTIONS --------
+# Run the app with Streamlit
+ENTRYPOINT ["streamlit", "run", "src/app.py", "--server.port=4000", "--server.address=0.0.0.0"]
+
+# Alternative: Uncomment below to run a FastAPI app instead of Streamlit
+# CMD ["uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "4000", "--proxy-headers"]

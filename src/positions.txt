@@ -1,0 +1,94 @@
+Senior Product Data Scientist, Google Education (English, Spanish)
+corporate_fare
+Google
+place
+Mexico City, CDMX, Mexico
+
+Minimum qualifications:
+Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
+8 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL) or 5 years of experience with a Master's degree.
+Ability to communicate in English and Spanish fluently to interact with local stakeholders.
+
+Preferred qualifications:
+Master's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field.
+8 years of work experience using analytics to solve product or business problems, performing statistical analysis, and coding (e.g., Python, R, SQL).
+Experience with statistical and quantitative modeling, forecasting, and machine learning techniques.
+Experience with analytics, data, and measurement products.
+About the job
+Help serve Google's worldwide user base of more than a billion people. Data Scientists provide quantitative support, market understanding and a strategic perspective to our partners throughout the organization. As a data-loving member of the team, you serve as an analytics expert for your partners, using numbers to help them make better decisions. You will weave stories with meaningful insight from data. You'll make critical recommendations for your fellow Googlers in Engineering and Product Management. You relish tallying up the numbers one minute and communicating your findings to a team leader the next.
+
+Google for Education is transforming teaching and learning at scale by bringing the best of Google technology to students, teachers, and education leaders. The Education Data Science team plays a fundamental role in the success of Google for Education, by providing understanding of our business and product performance, and developing insights to help drive decisions.
+
+Responsibilities
+Perform analysis utilizing relevant tools (e.g., SQL, R, Python). Help solve problems, narrow down multiple options into the best approach, and take ownership of open-ended ambiguous business problems to reach an optimal solution.
+Build new processes, procedures, methods, tests, and components with foresight to anticipate and address future issues.
+Report on Key Performance Indicators (KPIs) to support business reviews with the cross-functional/organizational leadership team. Translate analysis results in business insights or product improvement opportunities.
+Build and prototype analysis and business cases iteratively to provide insights at scale. Develop comprehensive understanding of Google data structures and metrics, advocating for changes where needed for product development.
+Influence across teams to align resources and direction.
+
+
+
+Data Engineer, Ads Marketing Analytics (Spanish and English)
+corporate_fare
+Google
+place
+Mexico City, CDMX, Mexico
+
+Minimum qualifications:
+Bachelor's degree or equivalent practical experience.
+3 years of experience coding in one or more programming languages.
+3 years of experience working with data infrastructure and data models by performing exploratory queries and scripts.
+Ability to communicate in Spanish and English fluently to support client relationship management in this region.
+
+Preferred qualifications:
+Experience with cloud-based data platforms.
+Experience working with advanced analytics solutions involving machine learning and statistical analytics including prompt engineering techniques.
+Knowledge of data warehousing concepts, including technical architectures, infrastructure components, ETL and reporting/analytics tools and environments.
+Knowledge of SQL, and experience with data processing software.
+Ability to work cross-functionally with technical and business stakeholders with listening, critical thinking, and problem-solving skills.
+Ability to operate in a fast-paced, constantly evolving and collaborative environment.
+About the job
+gTech’s Product and Tools Operations team (gPTO) leverages deep user, operational, and technical insights to innovate Google's Ads products into customer experiences that are so intuitive (or automated) that they require no support at all. gPTO partners closely with gTech’s Support, Professional Services, Product Management, and Engineering teams to innovate and simplify our Ads products and build the productivity tools ecosystem for gTech users.
+
+As a Data Engineer on the Ads Marketing Analytics team, you will play a vital role in building and maintaining the data infrastructure that fuels our marketing measurement you will design, develop, and optimize data pipelines, ensuring data quality and accessibility for analysis and reporting. Your technical expertise will enable the marketing team to leverage data-driven insights to optimize campaigns and measure the impact of marketing initiatives. You will leverage AI in your work.
+
+Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems--from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can--changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.
+
+Responsibilities
+Design, develop, and maintain data pipelines to collect, process, and store data from various data sources.
+Implement robust data quality checks and monitoring to ensure data accuracy and integrity.
+Collaborate with cross-functional teams (marketing, data science, engineering, analytics) to understand data requirements and deliver data solutions.
+Optimize data infrastructure for performance to meet evolving business needs.
+Create and maintain dashboards and reports to provide insights to the marketing team.
+
+
+
+Business Intelligence Lead
+corporate_fare
+Google
+place
+Mexico City, CDMX, Mexico
+Minimum qualifications:
+Bachelor’s degree or equivalent practical experience.
+10 years of experience in Business Intelligence or Data Analytics.
+10 years of experience in SQL and Data Visualization (e.g., Looker, Tableau, Power BI, Qlik, or similar technologies).
+5 years of experience of leading and managing individual contributors.
+
+Preferred qualifications:
+Experience with data warehousing or data modeling concepts.
+Experience with big data technologies (e.g., Hadoop, Spark, Python, or R).
+Experience with translating business requirements to BI solutions.
+Experience with explaining technical analysis to stakeholders.
+About the job
+This role is part of the Ads Martech team which is a cross functional team building the best technology and user experience solutions to support Marketing. In this role, you will own the development and maintenance of data pipelines, dashboard design, and data analyses for projects, and leading teammates in deliverables. As an L6 Manager, you should be innovative in finding new solutions to business intelligence problems as you develop work plans and assign tasks to your team. Collaboration with partner teams in strategy, data science, and engineering is key to translating metrics and analysis into formats that enable quick and easy derivation of relevant information.
+
+Please submit your resume in English - we can only consider applications submitted in this language.
+
+Only applications of candidates with Mexican citizenship will be evaluated for this role in compliance with the provisions of Article 7 of the Federal Labor Law.
+
+Responsibilities
+Oversee business intelligence solutions and infrastructure design to facilitate data gathering, storage, and retrieval, partnering with upstream source systems to influence input and storage, including advocating broader best practices.
+Support cross-functional data users through the maintenance of reports, queries, and dashboards.
+Ensure appropriate metrics, roles, and people are in place to meet organizational goals, involves making prioritization decisions, allocating work, managing resources to deliver business impact for Google and provide opportunities for Googlers to have impact.
+Contribute to objectives and OKRs for teams needed to meet organizational OKRs. Develop project roadmap, establish project goals, coordinate resources, and provide leadership in line with long-term objectives.
+Develop solutions for BI problems that may be ambiguous or lacking clear precedent. Guide teams in translating metrics and analysis into formats that enable key business stakeholders to easily derive information.
